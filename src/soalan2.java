@@ -21,7 +21,12 @@ public class soalan2 {
         
        System.out.println("Apakah gred bagi Math:[A/B/C/D/E/G]");
                 sains=input.next().charAt(0);
+                 System.out.println("Apakah gred bagi Math:[A/B/C/D/E/G]");
+                sains=input.next().charAt(0);
+                
        System.out.println("Apakah gred bagi sains:[A/B/C/D/G]");
+                math=input.next().charAt(0);
+                System.out.println("Apakah gred bagi sains:[A/B/C/D/G]");
                 math=input.next().charAt(0);
                 
        if (sains==math)
